@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+#title{
+
+    margin-left: 40%;
+    margin-top: 10%;
+}
+.todo-app{
+    margin-top: 10%;
+    margin-left: 35%;
+}
+#inpt, #btn{
+
+    padding: 6px;
+
+}
+.editbtn{
+
+    padding: 6px;
+}
+
+.delbtn{
+    padding: 6px;
+    margin-left: 1%;
+}
